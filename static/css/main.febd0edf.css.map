@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.febd0edf.css","mappings":"AAAA,eAGE,wBAAyB,CACzB,UAAY,CAHZ,YAAa,CACb,iBAGF","sources":["App.css"],"sourcesContent":[".about-section {\n  padding: 50px;\n  text-align: center;\n  background-color: #3c61b1;\n  color: white;\n}"],"names":[],"sourceRoot":""}
